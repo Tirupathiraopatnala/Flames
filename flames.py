@@ -1,6 +1,6 @@
-n=input("Enter Name of Player1:").lower().replace(' ','')
+n=input("Enter The Name of The Boy:\n").lower().replace(' ','')
 x=len(n)
-m=input("Enter Name of Player2:").lower().replace(' ','')
+m=input("Enter The Name of Girl:\n").lower().replace(' ','')
 if(m==n):
     print("Same person");
 else:
