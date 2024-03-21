@@ -19,10 +19,11 @@ The algorithm works by removing common letters in the names of the two individua
 To get started with the Flames test implementation, follow these steps:
 
 1. **Clone the Repository:**
+   ```bash
    git clone https://github.com/Tirupathiraopatnala/Flames-Test.git
-2. **Navigate to project directory:**
+3. **Navigate to project directory:**
    cd Flames-test
-3. **Run the code:**
+4. **Run the code:**
    python flames.py
    or
    javac flames.java
