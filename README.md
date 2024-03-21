@@ -11,7 +11,6 @@ The Flames test is a simple algorithm that calculates the relationship between t
 - **M** - Marriage
 - **E** - Enmity
 - **S** - Siblings
-- 
 The algorithm works by removing common letters in the names of the two individuals, counting the remaining letters, and then cycling through the FLAMES acronym to determine the relationship.
 
 
